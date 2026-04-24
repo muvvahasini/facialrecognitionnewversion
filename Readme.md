@@ -635,6 +635,34 @@ To contribute improvements:
 
 ---
 
+
+## 🎯 Academic Context
+
+This project was developed as part of my undergraduate final year project in Computer Science Engineering.
+
+The objective was to design a robust real-time facial recognition system that addresses a key limitation in traditional LBPH-based systems: incorrect handling of unknown faces.
+
+### 🔍 Research Contribution
+
+The main contribution of this work includes:
+- Eliminating "unknown" class training to avoid misclassification
+- Designing a multi-tier adaptive thresholding strategy
+- Implementing temporal smoothing for stable predictions
+- Improving real-world reliability of LBPH-based recognition systems
+
+## 📊 Evaluation Results
+
+The model was evaluated on a held-out test dataset.
+
+- Accuracy on known faces: 95% – 97%
+- Unknown face rejection rate: ~85%+
+- Evaluation method: Separate test dataset (data/test)
+- Metrics: Accuracy, Precision, Recall, F1-score
+
+These results demonstrate strong performance in both identification and rejection of unseen faces in real-world conditions.
+
+This project demonstrates practical application of machine learning concepts including pattern recognition, feature extraction, and decision threshold optimization.
+
 ## License
 
 MIT License — See LICENSE file for details
