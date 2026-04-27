@@ -230,6 +230,8 @@ Detailed project documentation is available upon request.
 
 ---
 
+
+
 ## 👩‍💻 Author
 
 **Hasini Muvva**
@@ -240,6 +242,8 @@ B.Tech CSE (Final Year Project)
 
 ---
 
-## 📜 License
+## 📜 License & 📚 Publication
+This research was presented at the **International Conference on Artificial Intelligence in Engineering Systems (ICAIES 2025)**.
+**ISBN:** 978-81-996802-4-1
 
 MIT License
